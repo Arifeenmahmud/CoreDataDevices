@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "2059782750c8fb4616a0a13a13743f62"
+build_time: [1587392534, 19593000]
+inputs:
+  "/Users/Arifeen/Desktop/CoreDataDevices/Person+CoreDataProperties.swift": [1580664612, 472186617]
+  "/Users/Arifeen/Desktop/CoreDataDevices/CoreDataDevices/PersistentceService.swift": [1580658054, 625982339]
+  "/Users/Arifeen/Desktop/CoreDataDevices/CoreDataDevices/ViewController.swift": [1580744774, 773909594]
+  "/Users/Arifeen/Desktop/CoreDataDevices/Person+CoreDataClass.swift": [1580664612, 470134616]
+  "/Users/Arifeen/Desktop/CoreDataDevices/CoreDataDevices/AppDelegate.swift": [1580653451, 504995068]
+  "/Users/Arifeen/Desktop/CoreDataDevices/CoreDataDevices/SceneDelegate.swift": [1580653559, 973422158]
